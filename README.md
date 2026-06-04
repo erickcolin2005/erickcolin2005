@@ -1,6 +1,6 @@
 <div align="center">
 
-![EAx](https://img.shields.io/badge/EAx-0f172a?style=for-the-badge&labelColor=f59e0b&color=0f172a)
+<img src="./assets/eax.svg" alt="EAx — Tecnología aplicada al negocio" width="100%"/>
 
 # Erick Collin Albornoz Hernández
 
@@ -17,7 +17,7 @@
 <p>
   <a href="https://www.linkedin.com/in/erick-albornoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ercoalhe2@gmail.com"><img src="https://img.shields.io/badge/Email-f59e0b?style=for-the-badge&logo=gmail&logoColor=0f172a" alt="Email"/></a>
-  <a href="https://erickcolin2005.github.io/studious-octo-chainsaw"><img src="https://img.shields.io/badge/Portafolio-0f172a?style=for-the-badge&logo=github&logoColor=f59e0b" alt="Portafolio"/></a>
+  <a href="https://erickcolin2005.github.io/presentaciones-ea/"><img src="https://img.shields.io/badge/Portafolio-0f172a?style=for-the-badge&logo=github&logoColor=f59e0b" alt="Portafolio"/></a>
 </p>
 
 </div>
@@ -32,19 +32,29 @@ Soy estudiante de **Ingeniería de Sistemas (9.º semestre)** en la Universidad 
 
 ---
 
-## 🛠️ Lo que hago
+## 🛠️ Para qué sirve lo que hago
 
-- 🔧 Diseño y construyo **sistemas backend** con **FastAPI, Spring Boot y Node.js**
-- 📐 Modelo datos y procesos con **UML, MER** y **arquitectura distribuida** (Kafka, Redis, Kubernetes)
-- 🤖 Automatizo operaciones con **IA**: chatbots, RPA y flujos de trabajo
-- 📊 Convierto datos crudos en decisiones mediante **ETL, optimización SQL y reporting**
+No vendo "tecnología". Resuelvo el problema que cuesta dinero todos los días: la operación que se traba, el dato que no aparece, la decisión que llega tarde.
 
-## 📈 Impacto que he entregado
+- 🔧 **Backend que aguanta producción** (FastAPI, Spring Boot, Node.js) — *para que tu negocio no se caiga cuando crece, no solo cuando lo demuestras.*
+- 🤖 **Automatización con IA** (chatbots, agentes, RPA) — *para que tu equipo deje de hacer lo repetitivo y se concentre en lo que sí da plata.*
+- 📐 **Modelado de datos y procesos** (UML, MER, Kafka, Redis, Kubernetes) — *para encontrar dónde se rompe y dónde se escapan los datos antes de invertir en código.*
+- 📊 **Datos convertidos en decisiones** (ETL, SQL, reporting) — *para que la gerencia decida con números, no con corazonadas.*
 
-- ⚡ Reduje en **40 %** el tiempo de respuesta al cliente en **Jabones Rocío** con automatización IA en WhatsApp
-- 🔍 Rediseñé flujos operativos con **ingeniería inversa + modelado MER** para identificar cuellos de botella
-- 🏗️ Construí backends *production-grade* para logística, transporte, educación y ventas
-- ⏱️ Recorté en **50 %** el tiempo de configuración de cuatro sistemas relacionales integrados
+## 🤖 Proyecto destacado — AI_DB_AGENT
+
+> **El para qué:** que cualquier persona del negocio le pregunte a la base de datos en español — *"¿cuánto vendí esta semana?"* — y reciba la respuesta, sin saber SQL ni esperar al área de sistemas.
+
+[**AI_DB_AGENT**](https://github.com/erickcolin2005/AI_DB_AGENT) convierte lenguaje natural en SQL, lo ejecuta contra una base real y devuelve *insights* automáticos. Es la idea que define cómo trabajo: **la IA no reemplaza al equipo, le quita la fricción.**
+
+`Next.js 14` · `Prisma` · `PostgreSQL` · `OpenAI` · `Docker` — corre *out-of-the-box*: levanta el contenedor, crea el esquema y siembra datos de ejemplo en un solo comando.
+
+## 📈 Lo que eso ha significado en la práctica
+
+- ⚡ **−40 % en tiempo de respuesta al cliente** en **Jabones Rocío** automatizando WhatsApp con IA — *menos clientes perdidos por esperar.*
+- 🔍 **Cuellos de botella detectados** con ingeniería inversa + modelado MER — *arreglé la causa, no el síntoma.*
+- 🏗️ **Backends para logística, transporte, educación y ventas** — *sistemas que siguen en pie con tráfico real.*
+- ⏱️ **−50 % en tiempo de configuración** de cuatro sistemas relacionales integrados — *menos horas de montaje, más de operación.*
 
 ## 🧭 Cómo trabajo
 
@@ -129,6 +139,9 @@ Más allá del backend: calidad, formulación, gestión y datos. Cada uno desde 
 - 🪙 **Predicción de mercado cripto** · *Minería de Datos*
   Pipeline ML sobre **23 criptomonedas** con metodología **CRISP-DM**: clasificación (¿sube o baja?) y regresión de retornos con árboles de decisión y **8 features sin *data leakage***.
 
+- 🟡 **Marca personal EAx** · *Posicionamiento y estrategia*
+  Construyo **EAx** como sistema de marca propio: un posicionamiento ("tecnología aplicada al negocio"), una identidad visual coherente y un mensaje claro para PYMEs y fundadores. *El para qué:* demostrar que sé traducir lo técnico en algo que un cliente entiende, valora y paga — la misma habilidad que aplico en cada proyecto.
+
 ---
 
 ## 🎓 Formación
@@ -151,10 +164,9 @@ Más allá del backend: calidad, formulación, gestión y datos. Cada uno desde 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erickcolin2005&show_icons=true&theme=tokyonight&hide_border=true&title_color=f59e0b&icon_color=f59e0b" alt="Estadísticas"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcolin2005&layout=compact&theme=tokyonight&hide_border=true&title_color=f59e0b" alt="Lenguajes"/>
+<img src="./assets/eax.svg" alt="EAx" width="60%"/>
 
-<br/><br/>
+<br/>
 
 <i>Traduzco tecnología compleja en soluciones claras, útiles y vendibles.</i>
 
