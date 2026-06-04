@@ -18,7 +18,6 @@
   <a href="https://www.linkedin.com/in/erick-albornoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ercoalhe2@gmail.com"><img src="https://img.shields.io/badge/Email-f59e0b?style=for-the-badge&logo=gmail&logoColor=0f172a" alt="Email"/></a>
   <a href="https://erickcolin2005.github.io/"><img src="https://img.shields.io/badge/Portafolio-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=0f172a" alt="Portafolio"/></a>
-  <a href="https://erickcolin2005.github.io/presentaciones-ea/"><img src="https://img.shields.io/badge/Presentaciones-0f172a?style=for-the-badge&logo=github&logoColor=f59e0b" alt="Presentaciones"/></a>
 </p>
 
 </div>
