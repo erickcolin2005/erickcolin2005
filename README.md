@@ -110,6 +110,27 @@ Aplico prácticas ágiles (**Scrum, Kanban**), **CI/CD**, versionado semántico 
 
 ---
 
+## 🎯 Proyectos aplicados
+
+Más allá del backend: calidad, formulación, gestión y datos. Cada uno desde la misma lógica — **el problema de negocio primero, la solución técnica después.**
+
+- 🛡️ **TourVista S.A.S. — Aseguramiento de calidad (SQA)** · *Gestión y Calidad del Software*
+  Diagnostiqué 5 fallas de una plataforma de turismo como síntomas de **una sola causa** (ausencia de gobernanza), no como bugs aislados. Evaluación con **ISO/IEC 25010:2023**, priorización con **AHP** y un pipeline **SQA + IA con quality gates bloqueantes**. Entregables: auditoría SQA, plan integral de calidad y propuesta de IA en aseguramiento.
+
+- 📊 **OptiPYME — SaaS de pronóstico de demanda** · *Formulación y Evaluación de Proyectos*
+  Formulé y evalué un proyecto SaaS de pronóstico de demanda y optimización de compras para **PYMES manufactureras del Valle del Cauca**, aplicando los **8 dominios del PMBOK® 7** y evaluación financiera con **Monte Carlo y SROI**.
+
+- 🗂️ **CyberEye — Product Manager** · *Gerencia de Proyectos*
+  Como **PM** controlé y replanifiqué el proyecto: ante un atraso del **70 %** en la fase de pipeline, reestructuré el equipo (separé roles PM/ML), recuperé **12 días por paralelismo** y **sostuve la fecha final** sin moverla.
+
+- ☀️ **Radiación solar en Uribia (La Guajira)** · *Técnicas de Validación y Simulación*
+  Modelos de predicción sobre series diarias de **NASA POWER (2018–2025)** con **validación temporal**, comparación de configuraciones y métricas MAE / RMSE / R² en Python.
+
+- 🪙 **Predicción de mercado cripto** · *Minería de Datos*
+  Pipeline ML sobre **23 criptomonedas** con metodología **CRISP-DM**: clasificación (¿sube o baja?) y regresión de retornos con árboles de decisión y **8 features sin *data leakage***.
+
+---
+
 ## 🎓 Formación
 
 - **Universidad Cooperativa de Colombia** — Ingeniería de Sistemas (2022 – 2027, en curso)
