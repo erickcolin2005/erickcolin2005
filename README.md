@@ -164,10 +164,6 @@ Más allá del backend: calidad, formulación, gestión y datos. Cada uno desde 
 
 <div align="center">
 
-<img src="./assets/eax.svg" alt="EAx" width="60%"/>
-
-<br/>
-
 <i>Traduzco tecnología compleja en soluciones claras, útiles y vendibles.</i>
 
 **— EAx**
