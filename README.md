@@ -40,8 +40,8 @@ Estudiante de **Ingeniería de Sistemas (9.º semestre)** en la Universidad Coop
 
 **Chatbot Specialist** · *Empaquetate* · abr 2025 – may 2025 · Remoto
 - Traduje la lógica de negocio a **sistemas conversacionales productivos** para toma de pedidos y atención al cliente: diseño de estados conversacionales y manejo de excepciones.
-- **Integración REST** con inventario/CRM: validación en tiempo real de stock, precios y confirmación de despacho.
-- Automatización de consultas repetitivas y **escalabilidad sin aumentar el headcount**.
+- **Integración de inventario/CRM**: validación en tiempo real de stock y precios.
+- Automatización de consultas repetitivas, reducción de tiempos de respuesta y **escalabilidad sin aumentar el headcount**.
 
 ---
 
