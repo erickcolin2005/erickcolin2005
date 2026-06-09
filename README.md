@@ -16,8 +16,14 @@
 
 <p>
   <a href="https://www.linkedin.com/in/erick-albornoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ercoalhe2@gmail.com"><img src="https://img.shields.io/badge/Email-f59e0b?style=for-the-badge&logo=gmail&logoColor=0f172a" alt="Email"/></a>
+  <a href="mailto:ercoalhe3@gmail.com"><img src="https://img.shields.io/badge/Email-f59e0b?style=for-the-badge&logo=gmail&logoColor=0f172a" alt="Email"/></a>
   <a href="https://erickcolin2005.github.io/"><img src="https://img.shields.io/badge/Portafolio-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=0f172a" alt="Portafolio"/></a>
+</p>
+<p>
+  <a href="https://wa.me/573205065780"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/erickalbornoz_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.tiktok.com/@erickalbornoz_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61590519305615"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 </div>
@@ -87,7 +93,9 @@ Estudiante de **Ingeniería de Sistemas (9.º semestre)** en la Universidad Coop
 
 Sistemas backend que **calcen con tu lógica de negocio**, automatización con IA de impacto medible y pipelines de datos que conviertan el caos en decisiones.
 
-📩 **ercoalhe2@gmail.com** &nbsp;·&nbsp; 🌐 **[erickcolin2005.github.io](https://erickcolin2005.github.io/)** &nbsp;·&nbsp; 🔗 **[github.com/erickcolin2005](https://github.com/erickcolin2005)**
+📩 **ercoalhe3@gmail.com** &nbsp;·&nbsp; 💬 **[WhatsApp](https://wa.me/573205065780)** &nbsp;·&nbsp; 🌐 **[erickcolin2005.github.io](https://erickcolin2005.github.io/)** &nbsp;·&nbsp; 🔗 **[github.com/erickcolin2005](https://github.com/erickcolin2005)**
+
+📸 **[Instagram](https://www.instagram.com/erickalbornoz_/)** &nbsp;·&nbsp; 🎵 **[TikTok](https://www.tiktok.com/@erickalbornoz_)** &nbsp;·&nbsp; 👤 **[Facebook](https://www.facebook.com/profile.php?id=61590519305615)**
 
 ---
 
